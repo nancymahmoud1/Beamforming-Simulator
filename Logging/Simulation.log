@@ -1,0 +1,42 @@
+2024-12-13 22:54:29,636 - INFO - Application Opened
+2024-12-13 22:55:43,690 - INFO - Switching scenario from None to 5G
+2024-12-13 22:55:43,692 - INFO - 
+            Updated scenario settings to 5G 
+            Frequency: 3.5 GHz,
+            Element Spacing:0.25 * wavelength, 
+            Curvature: 0, 
+            Number of Elements: 16
+            
+2024-12-13 22:55:45,862 - INFO - Switching scenario from 5G to Ultrasound
+2024-12-13 22:55:45,863 - INFO - 
+            Updated scenario settings to Ultrasound 
+            Frequency: 5 MHz,
+            Element Spacing:0.5 * wavelength, 
+            Curvature: 180, 
+            Number of Elements: 32
+            
+2024-12-13 22:55:50,443 - INFO - Switching scenario from Ultrasound to Tumor Ablation
+2024-12-13 22:55:50,444 - INFO - 
+            Updated scenario settings to Tumor Ablation 
+            Frequency: 20 MHz,
+            Element Spacing:0.1 * wavelength, 
+            Curvature: 90, 
+            Number of Elements: 64
+            
+2024-12-13 22:55:53,423 - INFO - Switching scenario from Tumor Ablation to 5G
+2024-12-13 22:55:53,424 - INFO - 
+            Updated scenario settings to 5G 
+            Frequency: 3.5 GHz,
+            Element Spacing:0.25 * wavelength, 
+            Curvature: 0, 
+            Number of Elements: 16
+            
+2024-12-13 22:55:55,934 - INFO - Switching scenario from 5G to Ultrasound
+2024-12-13 22:55:55,934 - INFO - 
+            Updated scenario settings to Ultrasound 
+            Frequency: 5 MHz,
+            Element Spacing:0.5 * wavelength, 
+            Curvature: 180, 
+            Number of Elements: 32
+            
+2024-12-13 22:56:36,872 - INFO - Application Closed
