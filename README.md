@@ -156,16 +156,15 @@ The simulator supports three distinct scenarios, each designed to address specif
 ## **Team**
 
 This project wouldn’t have been possible without the hard work and collaboration of my amazing team. Huge shout-out to:
-
-- [Nancy Mahmoud](https://github.com/nancymahmoud1)  
+  
 - [Madonna Mosaad](https://github.com/madonna-mosaad)  
 - [Yassien Tawfik](https://github.com/YassienTawfikk)
-
+- [Nancy Mahmoud](https://github.com/nancymahmoud1)
 ---
 
 ## **Contact**
 
 For any questions or suggestions, feel free to reach out:
 
-- **Name**: Yassien Tawfik  
-- **Email**: [Yassien.m.m.tawfik@gmail.com](mailto:Yassien.m.m.tawfik@gmail.com)
+- **Name**: Nancy Mahmoud  
+- **Email**: [Nancy.abdelfattah03@eng-st.cu.edu.eg](mailto:nancy.abdelfattah03@eng-st.cu.edu.eg)
